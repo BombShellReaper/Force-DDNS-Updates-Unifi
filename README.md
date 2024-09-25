@@ -17,7 +17,7 @@ Knowledge of the following:
 
 This guide is based on research, and I recommend exercising caution when working with the Unifi Controller.
 
-# Step 1: SSH into the controller
+# Step 1: SSH Into The Controller
 
 SSH (Secure Shell) is a protocol used to securely access and manage network devices. To begin, open your terminal or command prompt and use the following command to SSH into the Unifi Controller:
 
