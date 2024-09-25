@@ -44,7 +44,7 @@ Use the following command to force the configurations in your DDNS settings
 
     inadyn -n -1 --force -f /run/"Your-Config-File"
 
-Replace **"Your-Config-File"** with the configuration file you located **Step 2** Based on the picture provided above the command would look like this: **"inadyn -n -1 --force -f /run/ddns-eth9-inadyn.conf"**
+Replace **"Your-Config-File"** with the configuration file you located in **Step 2**. Based on the picture provided above the command would look like this: **"inadyn -n -1 --force -f /run/ddns-eth9-inadyn.conf"**
 
 It should look something like this:
 
