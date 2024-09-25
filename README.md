@@ -68,7 +68,7 @@ This will give a line-by-line view of potential errors for the last 1000 entries
 
 ![image](https://github.com/user-attachments/assets/d000f577-ce99-4313-8ccc-b523a268e4e0)
 
-One last command that you can run is to debug and it's as follows:
+If you are still running into issue. You can run this debug command:
 
      /usr/sbin/inadyn -n -s -C -f /run/iadyn.conf -1 -1 debug --force
 
