@@ -5,9 +5,25 @@ This guide explains how to force the Unifi Controller to update DDNS using built
 
 **Prerequisites**
 
+Knowledge of the following:
+- DDNS
+- Linux structure
+- Domain management
+- A records
 - Unifi Controller
-- Knowledge of DDNS, Linux structure, and domain management.
+- SSH
 
 **Disclaimer**
 
 This guide is based on research, and I recommend exercising caution when working with the Unifi Controller.
+
+# Step 1: SSH into the controller
+
+SSH (Secure Shell) is a protocol used to securely access and manage network devices. To begin, open your terminal or command prompt and use the following command to SSH into the Unifi Controller:
+
+    ssh username@controller-ip-address
+
+Replace **username** with your actual username and **controller-ip-address** with the IP address of your Unifi Controller. You will be prompted to enter your password.
+
+Once logged in, you will have access to the command line interface of the Unifi Controller.
+
