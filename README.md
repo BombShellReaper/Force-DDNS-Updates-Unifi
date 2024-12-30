@@ -51,9 +51,9 @@ It should look something like this:
 ![image](https://github.com/user-attachments/assets/39e9d85d-e3c3-44f5-b068-e72cc770153b)
 
 The output should look something like this:
-`inadyn[55425]: In-a-dyn version 2.12.0 **(Version can be different)** -- Dynamic DNS update client.
-inadyn[55425]: Update forced for alias **(Hostname)**, new IP# **(Your-WAN-IP)**
-inadyn[55425]: Updating cache for **(Hostname)**`
+`inadyn[55425]: In-a-dyn version 2.12.0 **(Version can be different)** -- Dynamic DNS update client.`
+`inadyn[55425]: Update forced for alias **(Hostname)**, new IP# **(Your-WAN-IP)**`
+`inadyn[55425]: Updating cache for **(Hostname)**`
 
 # Troubleshooting
 
